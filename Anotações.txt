@@ -1,0 +1,22 @@
+Até o momento o curso tem uma didática interessante com bons professores. Temas atualizados e módulos de ensino que visam muito o que o mercado busca de um profissional e como o mercado atua.
+
+Links úteis:
+
+Lista de comandos Git Bash: https://dev.classmethod.jp/articles/git-bash-commands/
+
+Liderança Agil:
+
+Scrum - https://scrumguides.org/index.html
+Kanban - https://kanban.university/
+
+Matérias: 
+https://forbes.com.br/forbes-tech/2022/06/marcelo-ciascasua-lideranca-e-agil/
+https://forbes.com.br/forbesesg/2021/12/heineken-aplica-prototipagem-para-levar-energia-renovavel-a-bares/
+
+Github:
+
+Guias para Git: https://docs.github.com/pt/issues/guides
+
+Método de ensino DIO:
+
+https://www.uvu.edu/otl/resources/group_work/pbl.html
